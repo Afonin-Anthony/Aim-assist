@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "aim-assist",
+	"version": "${version}",
+	"name": "Aim assist",
+	"description": "Allow you to automatically aim at enemy",
+	"authors": [
+		"Anthony Afonin aka anon987666"
+	],
+	"license": "MIT",
+	"icon": "assets/aim-assist/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.anon987666.aimassist.AimAssist"
+		],
+		"modmenu": [
+			"com.anon987666.aimassist.config.AimAssistMenuApi"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

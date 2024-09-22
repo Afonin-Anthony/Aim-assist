@@ -1,0 +1,26 @@
+{
+"text.autoconfig.aimassist.title": "Aim assist settings",
+"text.autoconfig.aimassist.category.rotation": "Rotation",
+"text.autoconfig.aimassist.category.target": "Target",
+"text.autoconfig.aimassist.category.ignore": "Ignore",
+
+
+
+"text.autoconfig.aimassist.option.yawSpeed": "Yaw speed",
+"text.autoconfig.aimassist.option.pitchSpeed": "Pitch speed",
+"text.autoconfig.aimassist.option.rotationLimit": "Rotation limit",
+"text.autoconfig.aimassist.option.rotationTime": "Rotation time",
+"text.autoconfig.aimassist.option.targetFindRadius": "Target find radius",
+
+
+"text.autoconfig.aimassist.option.players": "Players",
+"text.autoconfig.aimassist.option.mobs": "Mobs",
+"text.autoconfig.aimassist.option.animals": "Animals",
+"text.autoconfig.aimassist.option.invisible": "Invisible entities",
+
+
+"text.autoconfig.aimassist.option.whiteListEnable": "Use white list",
+"text.autoconfig.aimassist.option.whiteList": "White list",
+"text.autoconfig.aimassist.option.noDamage": "No damage"
+
+}
